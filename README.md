@@ -1,2 +1,4 @@
 # hello-world
-Cool!
+Hello everyone!
+I am new!
+yay
